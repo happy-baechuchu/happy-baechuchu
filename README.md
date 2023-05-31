@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=안녕%20반가워&fontAlign=70&rotate=13&fontAlignY=25&desc=HAPPY-BAECHUCHU's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HI%20HI&fontAlign=70&rotate=13&fontAlignY=25&desc=HAPPY-BAECHUCHU's%20GitHub&descAlign=70.&descAlignY=44)
 ## 소개
 ### 난 행복한 배츄츄야 👋
 <br>
