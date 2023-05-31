@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=HAPPY-BAECHUCHU's%20GitHub&descAlign=70.&descAlignY=44)
 ## 소개
-### 난 행복한 배츄츄야 👋
+### 난 행복한 배츄츄야 👋 오늘도 너와 함께 해서 행복해!
 <br>
 
 ## 툴과 스킬
