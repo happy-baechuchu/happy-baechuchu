@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=HAPPY-BAECHUCHU's%20GitHub&descAlign=70.&descAlignY=44)
-## 🌿행복한 배츄츄🌿
-### 난 행복한 배츄츄야 👋 오늘도 너와 함께 해서 행복해😘💕
+## 🌿박소연🌿
+### 오늘도 행복하기!! 👋 너와 함께 해서 행복해😘💕
 ### <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=Gmail&logoColor=white" /> <img src="https://img.shields.io/badge/blog-%231EC800.svg?&style=flat&logo=blogger&logoColor=white" /> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />
 <br>
 
